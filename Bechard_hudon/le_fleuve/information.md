@@ -33,4 +33,6 @@ J'ai beaucoup aimé cette oeuvre car, de son charme hypnotisant, elle me captiva
 Je trouve qu'il était parfois compliquer de se concentrer sur l'oeuvre lorsque les sons provenant de l'oeuvre adjacente, L'en deça, résonnaient dans toutes la salle. Malgré le fait que celle-ci est supposée accompagner la vidéo, je n'était pas convaincu, car les deux oeuvres projetaient des ambiances différentes, parfois même contradictoires.
 
 # Source:
+Site: bechardhudon.com
 
+Lien : https://bechardhudon.com/
