@@ -2,9 +2,9 @@
 # Titre: 
  Le fleuve, 50° 11'52,8" N., 66° 4'10"O.
  
-![i](medias/photos/a.png) 
+![j](medias/photos/a.png) 
 
-![i](medias/photos/aa.png) 
+![n](medias/photos/aa.png) 
  
 # Artiste: 
 Catherine Béchardet Sabin Hudon
@@ -23,13 +23,14 @@ Salle Alfred Pellan, Maison des arts, Laval.
 
 # Description de l'oeuvre:
 L'oeuvre consiste en 4 vidéos de courants filmées à la verticale, puis disposées côte-à-côte, formant une illusion comparable à l'accollade de deux mirroirs. Celles-ci illustrent l'endroit exact ou le Fleuve St-Laurent se mèle à la mer, aussi appelé Pointe à Moisie. La vidéo dure environ 32 minutes.
-![i](medias/photos/b.png) 
+![u](medias/photos/b.png) 
 
 # Explication sur la mise en espace:
 L'oeuvre se trouvait sur le mur central de la pièce, juste devant L'en Deça. Elle occupait un vaste espace sur le mur, mais le sol offrait assez de place pour plusieurs visiteurs.
 
 # Composantes techniques:
 À l'aide d'un projecteur pendu au plafond, la vidéo pouvait être diffusé sur le mur central de la salle. Le mur et le projecteur semblaient être les seuls éléments visiblement nécéssaire à la présentation de l'oeuvre.
+![t](medias/photos/p.png)
 
 # Expérience vécue:
 J'ai beaucoup aimé cette oeuvre car, de son charme hypnotisant, elle me captivait. J'avais l'impression que regarder la projection pendant plusieurs heures n'aurait pas été un problème pour moi. Le bleu qu'offrait la projection envoyait toutes sortes d'émotions: Apaisement, sérénité, mystère, mélancolie. Plus je la regardait, plus je me sentait transportée dans une autre réalité. J'avais presque l'impression que l'oeuvre me parlait, qu'elle me disait que tout allais bien se passer et qu'il n'était pas nécéssaire d'angoisser sur les détails.
