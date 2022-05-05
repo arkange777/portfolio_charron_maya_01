@@ -10,13 +10,13 @@
 
 
 # Nom de l'exposition:
-
+Chère Sasha
 
 # Lieu de l'exposition:
-
+Collège Montmorency, Grand Studio
 
 # Date de visite:
-
+23 Mars 2022
 
 # Description de l'oeuvre:
 
