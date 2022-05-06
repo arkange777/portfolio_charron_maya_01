@@ -3,5 +3,5 @@
 - Arsenal
 - Béchard-Hudon
 - Oeuvres des troisièmes années
-- Ciel à Outrages (visite personelle)
+- Ciel à Outrances (visite personelle)
 - À la Semaine des Arts
