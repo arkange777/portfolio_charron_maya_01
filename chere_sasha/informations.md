@@ -1,16 +1,14 @@
 
 # Titre: 
-
+Chère Sasha
  
  
 # Artiste: 
-
-
-# Année de réalisation: 
+Trish Nguyen, Angelina De Silva Jeca, Karine Cornier et Sabrina Kayani
 
 
 # Nom de l'exposition:
-Chère Sasha
+Exposition des élèves de 6em session
 
 # Lieu de l'exposition:
 Collège Montmorency, Grand Studio
@@ -37,4 +35,4 @@ Collège Montmorency, Grand Studio
 
 
 # Source:
-
+https://tim-montmorency.com/2022/
