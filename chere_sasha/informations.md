@@ -10,7 +10,7 @@ Trish Nguyen, Angelina De Silva Jeca, Karine Cornier et Sabrina Kayani
 # Nom de l'exposition:
 Exposition des élèves de 6em session
 
-![selfie](medias/photos/selfie.png)
+![selfie](medias/selfie.png)
 
 # Lieu de l'exposition:
 Collège Montmorency, Grand Studio
