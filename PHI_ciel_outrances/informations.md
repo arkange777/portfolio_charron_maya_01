@@ -6,7 +6,7 @@ Ciel à Outrances / Lashing Skies
 Brigitte Poupart et Madeleine Monette
 
 # Année de réalisation: 
-Inconnue
+2021
 
 # Nom de l'exposition:
 Ciel à Outrances / Lashing Skies
